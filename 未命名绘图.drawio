@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T11:39:10.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="MiKXfdGQb2A8oXvj34wH" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T11:39:30.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="3C32Y9tWSUHzPNSu_fBu" version="20.3.7" type="github">
   <diagram id="Tf-ROqd5I0BjPCLAmrv_" name="第 1 页">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,10 +25,10 @@
         <mxCell id="2l5vj2_Z7wzyE9L1ZZ0V-11" value="开发环境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HxrzQFl6GsJWeDt-w_co-1" value="web开发规范" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#85B8FF;" vertex="1" parent="1">
+        <mxCell id="HxrzQFl6GsJWeDt-w_co-1" value="命名规范" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#85B8FF;" vertex="1" parent="1">
           <mxGeometry x="60" y="462" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HxrzQFl6GsJWeDt-w_co-2" value="IDEA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#85B8FF;" vertex="1" parent="1">
+        <mxCell id="HxrzQFl6GsJWeDt-w_co-2" value="编码规范" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#85B8FF;" vertex="1" parent="1">
           <mxGeometry x="59" y="574" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HxrzQFl6GsJWeDt-w_co-3" value="数据库设计规范" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#85B8FF;" vertex="1" parent="1">
